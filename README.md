@@ -1,3 +1,3 @@
 # Hospital ORM Project
 
-[diagram](./hospital.png)
+![diagram](./hospital.png)
