@@ -4,6 +4,9 @@
     <projectFile profileName="Hospital_ORM_project">Hospital ORM project.csproj</projectFile>
     <projectFile profileName="IIS Express">Hospital ORM project.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dc40e236-80a2-40eb-9e80-fcc05206014d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +17,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2TxyqkJTdABP18yhYVGQRrveCQF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,7 +31,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+    "settings.editor.selected.configurable": "Inspections-C#"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/emil/Library/Application Support/JetBrains/Rider2023.2/resharper-host/DecompilerCache",
+      "/Users/emil/Library/Application Support/JetBrains/Rider2023.2/resharper-host/SourcesCache",
+      "/Users/emil/.local/share/Symbols/src"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Hospital ORM project: Hospital_ORM_project">
@@ -68,10 +82,16 @@
       <option name="presentableId" value="Default" />
       <updated>1691999221085</updated>
       <workItem from="1691999222823" duration="97000" />
+      <workItem from="1691999897058" duration="925000" />
+      <workItem from="1692001467009" duration="2691000" />
     </task>
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
