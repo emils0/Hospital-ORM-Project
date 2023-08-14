@@ -1,3 +1,5 @@
+using System;
+
 namespace Hospital_ORM_project; 
 
 public class Appointment

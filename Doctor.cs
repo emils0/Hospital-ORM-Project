@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace Hospital_ORM_project; 
 
 public class Doctor : MedicalStaff
