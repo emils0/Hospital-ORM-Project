@@ -1,0 +1,27 @@
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/bin/Debug/net6.0/appsettings.Development.json
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/bin/Debug/net6.0/appsettings.json
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/bin/Debug/net6.0/Hospital ORM project
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/bin/Debug/net6.0/Hospital ORM project.deps.json
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/bin/Debug/net6.0/Hospital ORM project.runtimeconfig.json
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/bin/Debug/net6.0/Hospital ORM project.dll
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/bin/Debug/net6.0/Hospital ORM project.pdb
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/Hospital ORM project.csproj.AssemblyReference.cache
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/Hospital ORM project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/Hospital ORM project.AssemblyInfoInputs.cache
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/Hospital ORM project.AssemblyInfo.cs
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/Hospital ORM project.csproj.CoreCompileInputs.cache
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/Hospital ORM project.MvcApplicationPartsAssemblyInfo.cs
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/Hospital ORM project.MvcApplicationPartsAssemblyInfo.cache
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/staticwebassets.build.json
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/staticwebassets.development.json
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/scopedcss/bundle/Hospital ORM project.styles.css
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/Hospital ORM project.csproj.CopyComplete
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/Hospital ORM project.dll
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/refint/Hospital ORM project.dll
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/Hospital ORM project.pdb
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/Hospital ORM project.genruntimeconfig.cache
+/Users/emil/Documents/csharp/ORM/Hospital ORM project/obj/Debug/net6.0/ref/Hospital ORM project.dll
