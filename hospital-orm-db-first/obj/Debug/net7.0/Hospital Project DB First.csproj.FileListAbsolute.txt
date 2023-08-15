@@ -1,0 +1,76 @@
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/bin/Debug/net7.0/appsettings.Development.json
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/bin/Debug/net7.0/appsettings.json
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/bin/Debug/net7.0/Hospital Project DB First
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/bin/Debug/net7.0/Hospital Project DB First.deps.json
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/bin/Debug/net7.0/Hospital Project DB First.runtimeconfig.json
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/bin/Debug/net7.0/Hospital Project DB First.dll
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/bin/Debug/net7.0/Hospital Project DB First.pdb
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/Hospital Project DB First.csproj.AssemblyReference.cache
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/Hospital Project DB First.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/Hospital Project DB First.AssemblyInfoInputs.cache
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/Hospital Project DB First.AssemblyInfo.cs
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/Hospital Project DB First.csproj.CoreCompileInputs.cache
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/Hospital Project DB First.MvcApplicationPartsAssemblyInfo.cs
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/Hospital Project DB First.MvcApplicationPartsAssemblyInfo.cache
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/staticwebassets/msbuild.Hospital Project DB First.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/staticwebassets/msbuild.build.Hospital Project DB First.props
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Hospital Project DB First.props
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Hospital Project DB First.props
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/staticwebassets.build.json
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/staticwebassets.development.json
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/scopedcss/bundle/Hospital Project DB First.styles.css
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/Hospital Project DB First.csproj.CopyComplete
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/Hospital Project DB First.dll
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/refint/Hospital Project DB First.dll
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/Hospital Project DB First.pdb
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/Hospital Project DB First.genruntimeconfig.cache
+/Users/emil/Documents/csharp/ORM/Hospital Project DB First/obj/Debug/net7.0/ref/Hospital Project DB First.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/appsettings.Development.json
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/appsettings.json
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Hospital Project DB First
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Hospital Project DB First.deps.json
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Hospital Project DB First.runtimeconfig.json
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Hospital Project DB First.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Hospital Project DB First.pdb
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/MySqlConnector.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/Hospital Project DB First.csproj.AssemblyReference.cache
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/Hospital Project DB First.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/Hospital Project DB First.AssemblyInfoInputs.cache
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/Hospital Project DB First.AssemblyInfo.cs
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/Hospital Project DB First.csproj.CoreCompileInputs.cache
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/Hospital Project DB First.MvcApplicationPartsAssemblyInfo.cs
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/Hospital Project DB First.MvcApplicationPartsAssemblyInfo.cache
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/staticwebassets/msbuild.Hospital Project DB First.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/staticwebassets/msbuild.build.Hospital Project DB First.props
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Hospital Project DB First.props
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Hospital Project DB First.props
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/staticwebassets.build.json
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/staticwebassets.development.json
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/scopedcss/bundle/Hospital Project DB First.styles.css
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/Hospital Project DB First.csproj.CopyComplete
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/Hospital Project DB First.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/refint/Hospital Project DB First.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/Hospital Project DB First.pdb
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/Hospital Project DB First.genruntimeconfig.cache
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/obj/Debug/net7.0/ref/Hospital Project DB First.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Humanizer.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/emil/Documents/csharp/ORM/hospital-orm-project/hospital-orm-db-first/bin/Debug/net7.0/System.CodeDom.dll
