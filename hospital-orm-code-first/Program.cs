@@ -35,7 +35,6 @@ namespace Hospital_ORM_project {
 	}
 
 	public class HospitalContext : DbContext
-		// ... rest of the code ...
 	{
 		public DbSet<Doctor> Doctors { get; set; }
 		public DbSet<Nurse> Nurses { get; set; }
